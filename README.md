@@ -7,6 +7,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,4 +22,9 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
