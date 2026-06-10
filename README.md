@@ -23,8 +23,13 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0013-roman-to-integer](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
