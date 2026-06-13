@@ -47,6 +47,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Recursion
 |  |
 | ------- |
