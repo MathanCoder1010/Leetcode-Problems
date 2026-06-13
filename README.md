@@ -12,6 +12,7 @@ Collection of my LeetCode solutions in Java
 | [0027-remove-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of my LeetCode solutions in Java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 ## String Matching
 |  |
 | ------- |
@@ -83,4 +85,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
