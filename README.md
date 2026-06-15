@@ -40,6 +40,7 @@ Collection of my LeetCode solutions in Java
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 ## Trie
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Collection of my LeetCode solutions in Java
 | [0027-remove-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 ## String Matching
 |  |
 | ------- |
