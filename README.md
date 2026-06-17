@@ -20,6 +20,7 @@ Collection of my LeetCode solutions in Java
 | [0136-single-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@ Collection of my LeetCode solutions in Java
 | [0202-happy-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 ## Math
 |  |
 | ------- |
@@ -187,4 +189,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
