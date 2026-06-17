@@ -37,6 +37,7 @@ Collection of my LeetCode solutions in Java
 | [0069-sqrtx](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 ## String
 |  |
 | ------- |
@@ -48,6 +49,7 @@ Collection of my LeetCode solutions in Java
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 ## Trie
 |  |
 | ------- |
