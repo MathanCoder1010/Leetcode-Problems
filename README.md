@@ -45,6 +45,7 @@ Collection of my LeetCode solutions in Java
 | [0168-excel-sheet-column-title](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -81,6 +82,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+| [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,6 +110,7 @@ Collection of my LeetCode solutions in Java
 | [0136-single-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
