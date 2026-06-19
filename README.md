@@ -46,6 +46,7 @@ Collection of my LeetCode solutions in Java
 | [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0342-power-of-four) |
 ## String
@@ -120,6 +121,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0258-add-digits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -210,4 +212,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
