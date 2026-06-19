@@ -46,6 +46,7 @@ Collection of my LeetCode solutions in Java
 | [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0326-power-of-three) |
 ## String
 |  |
 | ------- |
@@ -83,6 +84,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
