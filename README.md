@@ -51,6 +51,7 @@ Collection of my LeetCode solutions in Java
 | [0326-power-of-three](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -66,6 +67,7 @@ Collection of my LeetCode solutions in Java
 | [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0412-fizz-buzz](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +131,7 @@ Collection of my LeetCode solutions in Java
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 ## Dynamic Programming
 |  |
 | ------- |
