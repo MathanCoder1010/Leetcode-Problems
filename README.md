@@ -21,6 +21,7 @@ Collection of my LeetCode solutions in Java
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ Collection of my LeetCode solutions in Java
 | [0205-isomorphic-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
 | ------- |
