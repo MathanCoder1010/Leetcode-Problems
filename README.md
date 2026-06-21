@@ -134,6 +134,7 @@ Collection of my LeetCode solutions in Java
 | [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0461-hamming-distance) |
+| [0476-number-complement](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0476-number-complement) |
 ## Simulation
 |  |
 | ------- |
