@@ -59,6 +59,7 @@ Collection of my LeetCode solutions in Java
 | [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0728-self-dividing-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 ## String
 |  |
 | ------- |
