@@ -77,6 +77,7 @@ Collection of my LeetCode solutions in Java
 | [0459-repeated-substring-pattern](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0709-to-lower-case](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0709-to-lower-case) |
 ## Trie
 |  |
 | ------- |
