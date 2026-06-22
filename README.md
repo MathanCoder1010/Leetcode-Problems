@@ -75,6 +75,7 @@ Collection of my LeetCode solutions in Java
 | [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0520-detect-capital) |
 ## Trie
 |  |
 | ------- |
