@@ -28,6 +28,7 @@ Collection of my LeetCode solutions in Java
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -65,6 +66,7 @@ Collection of my LeetCode solutions in Java
 | [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
 ## String
 |  |
@@ -178,6 +180,7 @@ Collection of my LeetCode solutions in Java
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
 |  |
 | ------- |
