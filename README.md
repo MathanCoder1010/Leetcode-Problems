@@ -25,6 +25,7 @@ Collection of my LeetCode solutions in Java
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0500-keyboard-row](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -172,6 +173,7 @@ Collection of my LeetCode solutions in Java
 | [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 ## Tree
 |  |
 | ------- |
@@ -255,4 +257,12 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
