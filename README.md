@@ -94,6 +94,7 @@ Collection of my LeetCode solutions in Java
 | [0709-to-lower-case](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Trie
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Collection of my LeetCode solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
 | ------- |
@@ -136,6 +138,7 @@ Collection of my LeetCode solutions in Java
 | [0557-reverse-words-in-a-string-iii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## String Matching
 |  |
 | ------- |
@@ -171,6 +174,7 @@ Collection of my LeetCode solutions in Java
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
+| [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Dynamic Programming
 |  |
 | ------- |
