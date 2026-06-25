@@ -11,6 +11,7 @@ Collection of my LeetCode solutions in Java
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -181,6 +182,7 @@ Collection of my LeetCode solutions in Java
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -250,6 +252,7 @@ Collection of my LeetCode solutions in Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0190-reverse-bits) |
