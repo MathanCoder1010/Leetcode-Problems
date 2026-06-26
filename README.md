@@ -17,6 +17,7 @@ Collection of my LeetCode solutions in Java
 | [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -165,6 +166,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0035-search-insert-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0441-arranging-coins) |
@@ -302,6 +304,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0074-search-a-2d-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
