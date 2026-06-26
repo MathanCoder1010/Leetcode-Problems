@@ -23,6 +23,7 @@ Collection of my LeetCode solutions in Java
 | [0119-pascals-triangle-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0136-single-number) |
+| [0162-find-peak-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -163,6 +164,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0035-search-insert-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0069-sqrtx) |
+| [0162-find-peak-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0441-arranging-coins](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
