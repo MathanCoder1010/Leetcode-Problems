@@ -252,6 +252,7 @@ Collection of my LeetCode solutions in Java
 | [0144-binary-tree-preorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -274,6 +275,7 @@ Collection of my LeetCode solutions in Java
 | [0111-minimum-depth-of-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0112-path-sum) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -337,4 +339,12 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
