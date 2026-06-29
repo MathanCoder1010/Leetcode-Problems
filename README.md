@@ -58,6 +58,7 @@ Collection of my LeetCode solutions in Java
 | [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
@@ -100,6 +101,7 @@ Collection of my LeetCode solutions in Java
 | [0412-fizz-buzz](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0500-keyboard-row](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0520-detect-capital) |
@@ -221,6 +223,7 @@ Collection of my LeetCode solutions in Java
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 ## Tree
@@ -287,6 +290,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
 | ------- |
@@ -325,4 +329,12 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
