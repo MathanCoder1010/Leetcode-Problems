@@ -44,6 +44,7 @@ Collection of my LeetCode solutions in Java
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 ## Hash Table
 |  |
@@ -129,6 +130,7 @@ Collection of my LeetCode solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 ## Linked List
 |  |
@@ -359,4 +361,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
