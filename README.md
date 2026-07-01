@@ -31,6 +31,7 @@ Collection of my LeetCode solutions in Java
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -60,6 +61,7 @@ Collection of my LeetCode solutions in Java
 | [0205-isomorphic-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -235,6 +237,7 @@ Collection of my LeetCode solutions in Java
 | [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
@@ -303,6 +306,7 @@ Collection of my LeetCode solutions in Java
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -311,6 +315,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Sliding Window
 |  |
@@ -358,10 +363,12 @@ Collection of my LeetCode solutions in Java
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 ## Union-Find
 |  |
@@ -382,4 +389,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
