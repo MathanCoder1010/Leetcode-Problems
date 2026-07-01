@@ -14,6 +14,7 @@ Collection of my LeetCode solutions in Java
 | [0027-remove-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0054-spiral-matrix) |
@@ -405,6 +406,7 @@ Collection of my LeetCode solutions in Java
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Quickselect
 |  |
