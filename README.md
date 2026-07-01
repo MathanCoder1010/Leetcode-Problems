@@ -50,6 +50,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
@@ -93,6 +94,7 @@ Collection of my LeetCode solutions in Java
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0020-valid-parentheses) |
@@ -313,6 +315,7 @@ Collection of my LeetCode solutions in Java
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 ## Design
