@@ -24,6 +24,7 @@ Collection of my LeetCode solutions in Java
 | [0074-search-a-2d-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -114,6 +115,7 @@ Collection of my LeetCode solutions in Java
 | [0049-group-anagrams](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
@@ -272,6 +274,7 @@ Collection of my LeetCode solutions in Java
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0101-symmetric-tree) |
@@ -358,6 +361,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0054-spiral-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -413,6 +417,7 @@ Collection of my LeetCode solutions in Java
 | [0017-letter-combinations-of-a-phone-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0797-all-paths-from-source-to-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Quickselect
 |  |
