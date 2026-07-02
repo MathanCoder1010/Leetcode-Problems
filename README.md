@@ -118,6 +118,7 @@ Collection of my LeetCode solutions in Java
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -238,6 +239,7 @@ Collection of my LeetCode solutions in Java
 | [0118-pascals-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -421,6 +423,7 @@ Collection of my LeetCode solutions in Java
 | [0078-subsets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Quickselect
 |  |
