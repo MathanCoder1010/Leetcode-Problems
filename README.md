@@ -425,6 +425,7 @@ Collection of my LeetCode solutions in Java
 | [0022-generate-parentheses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0090-subsets-ii) |
