@@ -19,6 +19,7 @@ Collection of my LeetCode solutions in Java
 | [0049-group-anagrams](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -241,6 +242,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0022-generate-parentheses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0119-pascals-triangle-ii) |
@@ -396,6 +398,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
