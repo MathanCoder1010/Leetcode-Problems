@@ -461,4 +461,8 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
