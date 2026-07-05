@@ -120,6 +120,7 @@ Collection of my LeetCode solutions in Java
 | [0049-group-anagrams](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
@@ -149,6 +150,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
