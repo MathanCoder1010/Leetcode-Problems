@@ -25,6 +25,7 @@ Collection of my LeetCode solutions in Java
 | [0055-jump-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0066-plus-one) |
@@ -247,6 +248,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0043-multiply-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0412-fizz-buzz) |
@@ -411,6 +413,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0048-rotate-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
