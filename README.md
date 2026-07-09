@@ -15,6 +15,7 @@ Collection of my LeetCode solutions in Java
 | [0033-search-in-rotated-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0045-jump-game-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
@@ -250,6 +251,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0062-unique-paths) |
@@ -414,6 +416,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
