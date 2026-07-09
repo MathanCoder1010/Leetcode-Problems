@@ -91,6 +91,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0009-palindrome-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0013-roman-to-integer) |
+| [0062-unique-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0069-sqrtx) |
@@ -250,6 +251,7 @@ Collection of my LeetCode solutions in Java
 | [0022-generate-parentheses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -477,4 +479,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0207-course-schedule) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
