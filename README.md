@@ -121,6 +121,7 @@ Collection of my LeetCode solutions in Java
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 ## String
 |  |
 | ------- |
@@ -413,6 +414,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 ## Matrix
 |  |
 | ------- |
