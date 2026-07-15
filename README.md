@@ -171,6 +171,7 @@ Collection of my LeetCode solutions in Java
 | [0771-jewels-and-stones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
+| [0831-masking-personal-information](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3794-reverse-string-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
