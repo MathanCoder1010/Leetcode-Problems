@@ -130,6 +130,7 @@ Collection of my LeetCode solutions in Java
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 ## String
 |  |
@@ -471,6 +472,7 @@ Collection of my LeetCode solutions in Java
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
+| [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 ## Counting Sort
 |  |
 | ------- |
