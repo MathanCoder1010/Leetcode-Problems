@@ -345,6 +345,7 @@ Collection of my LeetCode solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -369,6 +370,7 @@ Collection of my LeetCode solutions in Java
 | [0797-all-paths-from-source-to-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -387,6 +389,7 @@ Collection of my LeetCode solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
+| [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -403,6 +406,7 @@ Collection of my LeetCode solutions in Java
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0841-keys-and-rooms) |
+| [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
