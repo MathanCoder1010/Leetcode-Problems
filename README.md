@@ -71,6 +71,7 @@ Collection of my LeetCode solutions in Java
 | [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
+| [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
@@ -135,6 +136,7 @@ Collection of my LeetCode solutions in Java
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 ## String
@@ -312,6 +314,7 @@ Collection of my LeetCode solutions in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -563,4 +566,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0062-unique-paths) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
