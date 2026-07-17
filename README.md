@@ -106,6 +106,7 @@ Collection of my LeetCode solutions in Java
 | [0575-distribute-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -174,6 +175,7 @@ Collection of my LeetCode solutions in Java
 | [0709-to-lower-case](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
+| [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0831-masking-personal-information](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0831-masking-personal-information) |
@@ -332,6 +334,7 @@ Collection of my LeetCode solutions in Java
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 ## Tree
 |  |
 | ------- |
