@@ -139,6 +139,7 @@ Collection of my LeetCode solutions in Java
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
+| [2769-find-the-maximum-achievable-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 ## String
 |  |
 | ------- |
