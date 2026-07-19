@@ -534,6 +534,7 @@ Collection of my LeetCode solutions in Java
 | [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0841-keys-and-rooms) |
+| [1791-find-center-of-star-graph](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1791-find-center-of-star-graph) |
 ## Monotonic Stack
 |  |
 | ------- |
