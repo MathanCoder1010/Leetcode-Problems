@@ -315,6 +315,7 @@ Collection of my LeetCode solutions in Java
 | [0131-palindrome-partitioning](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
 |  |
 | ------- |
@@ -357,6 +358,7 @@ Collection of my LeetCode solutions in Java
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -382,6 +384,7 @@ Collection of my LeetCode solutions in Java
 | [0841-keys-and-rooms](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0841-keys-and-rooms) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -401,6 +404,7 @@ Collection of my LeetCode solutions in Java
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
