@@ -74,6 +74,7 @@ Collection of my LeetCode solutions in Java
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -185,6 +186,7 @@ Collection of my LeetCode solutions in Java
 | [0831-masking-personal-information](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [1678-goal-parser-interpretation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1678-goal-parser-interpretation) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -515,6 +517,7 @@ Collection of my LeetCode solutions in Java
 | [0238-product-of-array-except-self](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
