@@ -55,6 +55,7 @@ Collection of my LeetCode solutions in Java
 | [0303-range-sum-query-immutable](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
@@ -99,6 +100,7 @@ Collection of my LeetCode solutions in Java
 | [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -248,6 +250,7 @@ Collection of my LeetCode solutions in Java
 | [0344-reverse-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -273,6 +276,7 @@ Collection of my LeetCode solutions in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Bit Manipulation
@@ -342,6 +346,7 @@ Collection of my LeetCode solutions in Java
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
