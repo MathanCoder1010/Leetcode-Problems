@@ -73,6 +73,7 @@ Collection of my LeetCode solutions in Java
 | [0575-distribute-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0598-range-addition-ii) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
@@ -120,6 +121,7 @@ Collection of my LeetCode solutions in Java
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0575-distribute-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
@@ -192,6 +194,7 @@ Collection of my LeetCode solutions in Java
 | [0520-detect-capital](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
