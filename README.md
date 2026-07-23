@@ -74,6 +74,7 @@ Collection of my LeetCode solutions in Java
 | [0594-longest-harmonious-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0598-range-addition-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
@@ -539,6 +540,7 @@ Collection of my LeetCode solutions in Java
 | [0055-jump-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
+| [0605-can-place-flowers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
