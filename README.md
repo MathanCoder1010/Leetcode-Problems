@@ -80,6 +80,7 @@ Collection of my LeetCode solutions in Java
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
@@ -349,6 +350,7 @@ Collection of my LeetCode solutions in Java
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Memoization
