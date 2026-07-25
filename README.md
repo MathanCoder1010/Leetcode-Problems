@@ -78,6 +78,7 @@ Collection of my LeetCode solutions in Java
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
@@ -540,6 +541,7 @@ Collection of my LeetCode solutions in Java
 | [0200-number-of-islands](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0994-rotting-oranges) |
