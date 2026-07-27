@@ -80,6 +80,7 @@ Collection of my LeetCode solutions in Java
 | [0643-maximum-average-subarray-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0661-image-smoother) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
