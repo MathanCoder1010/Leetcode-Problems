@@ -84,6 +84,7 @@ Collection of my LeetCode solutions in Java
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
