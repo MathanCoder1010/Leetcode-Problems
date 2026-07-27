@@ -88,6 +88,7 @@ Collection of my LeetCode solutions in Java
 | [0724-find-pivot-index](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0748-shortest-completing-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
@@ -314,6 +315,7 @@ Collection of my LeetCode solutions in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
