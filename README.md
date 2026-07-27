@@ -85,6 +85,7 @@ Collection of my LeetCode solutions in Java
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0724-find-pivot-index](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -574,6 +575,7 @@ Collection of my LeetCode solutions in Java
 | [0238-product-of-array-except-self](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Heap (Priority Queue)
 |  |
