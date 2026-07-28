@@ -97,6 +97,7 @@ Collection of my LeetCode solutions in Java
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
+| [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -349,6 +350,7 @@ Collection of my LeetCode solutions in Java
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -557,6 +559,7 @@ Collection of my LeetCode solutions in Java
 | [0733-flood-fill](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0994-rotting-oranges](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 ## Greedy
