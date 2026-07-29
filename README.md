@@ -100,6 +100,7 @@ Collection of my LeetCode solutions in Java
 | [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1002-find-common-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -579,6 +580,7 @@ Collection of my LeetCode solutions in Java
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
