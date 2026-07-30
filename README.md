@@ -96,6 +96,7 @@ Collection of my LeetCode solutions in Java
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0994-rotting-oranges](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
@@ -148,6 +149,7 @@ Collection of my LeetCode solutions in Java
 | [0771-jewels-and-stones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
+| [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0997-find-the-town-judge](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -327,6 +329,7 @@ Collection of my LeetCode solutions in Java
 | [0441-arranging-coins](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -412,6 +415,7 @@ Collection of my LeetCode solutions in Java
 | [0645-set-mismatch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
+| [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
