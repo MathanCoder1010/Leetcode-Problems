@@ -100,6 +100,7 @@ Collection of my LeetCode solutions in Java
 | [0892-surface-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0994-rotting-oranges](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
@@ -153,6 +154,7 @@ Collection of my LeetCode solutions in Java
 | [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0997-find-the-town-judge](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
@@ -189,6 +191,7 @@ Collection of my LeetCode solutions in Java
 | [0883-projection-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
 | [0908-smallest-range-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0908-smallest-range-i) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
@@ -535,6 +538,7 @@ Collection of my LeetCode solutions in Java
 | [0387-first-unique-character-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0594-longest-harmonious-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
@@ -560,6 +564,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 ## Matrix
 |  |
