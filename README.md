@@ -94,6 +94,7 @@ Collection of my LeetCode solutions in Java
 | [0748-shortest-completing-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
 | [0766-toeplitz-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
+| [0812-largest-triangle-area](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
@@ -188,6 +189,7 @@ Collection of my LeetCode solutions in Java
 | [0598-range-addition-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
+| [0812-largest-triangle-area](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
@@ -692,6 +694,11 @@ Collection of my LeetCode solutions in Java
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
