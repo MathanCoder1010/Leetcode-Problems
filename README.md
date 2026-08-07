@@ -122,6 +122,7 @@ Collection of my LeetCode solutions in Java
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
