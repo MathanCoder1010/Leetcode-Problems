@@ -96,6 +96,7 @@ Collection of my LeetCode solutions in Java
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
+| [0821-shortest-distance-to-a-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
@@ -270,6 +271,7 @@ Collection of my LeetCode solutions in Java
 | [0796-rotate-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0796-rotate-string) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
+| [0821-shortest-distance-to-a-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0831-masking-personal-information](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0929-unique-email-addresses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0929-unique-email-addresses) |
@@ -346,6 +348,7 @@ Collection of my LeetCode solutions in Java
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
+| [0821-shortest-distance-to-a-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
