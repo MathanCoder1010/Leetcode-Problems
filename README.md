@@ -132,6 +132,7 @@ Collection of my LeetCode solutions in Java
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [1734-decode-xored-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1734-decode-xored-permutation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -403,6 +404,7 @@ Collection of my LeetCode solutions in Java
 | [0645-set-mismatch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1734-decode-xored-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1734-decode-xored-permutation) |
 ## Simulation
 |  |
 | ------- |
