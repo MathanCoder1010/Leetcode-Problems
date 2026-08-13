@@ -130,6 +130,7 @@ Collection of my LeetCode solutions in Java
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1734-decode-xored-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1734-decode-xored-permutation) |
@@ -482,6 +483,7 @@ Collection of my LeetCode solutions in Java
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
