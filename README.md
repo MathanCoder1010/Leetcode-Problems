@@ -56,6 +56,7 @@ Collection of my LeetCode solutions in Java
 | [0268-missing-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0318-maximum-product-of-word-lengths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -260,6 +261,7 @@ Collection of my LeetCode solutions in Java
 | [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0318-maximum-product-of-word-lengths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0383-ransom-note) |
@@ -409,6 +411,7 @@ Collection of my LeetCode solutions in Java
 | [0191-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0342-power-of-four](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0342-power-of-four) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0461-hamming-distance) |
