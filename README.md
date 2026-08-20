@@ -131,6 +131,7 @@ Collection of my LeetCode solutions in Java
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
@@ -297,6 +298,7 @@ Collection of my LeetCode solutions in Java
 | [0953-verifying-an-alien-dictionary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1678-goal-parser-interpretation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -383,6 +385,7 @@ Collection of my LeetCode solutions in Java
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0796-rotate-string) |
+| [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 ## Binary Search
 |  |
 | ------- |
