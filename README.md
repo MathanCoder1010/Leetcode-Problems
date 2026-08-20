@@ -133,6 +133,7 @@ Collection of my LeetCode solutions in Java
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -195,6 +196,7 @@ Collection of my LeetCode solutions in Java
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
@@ -299,6 +301,7 @@ Collection of my LeetCode solutions in Java
 | [1002-find-common-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
