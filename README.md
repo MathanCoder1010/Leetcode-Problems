@@ -227,6 +227,7 @@ Collection of my LeetCode solutions in Java
 | [0441-arranging-coins](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0441-arranging-coins) |
 | [0504-base-7](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
+| [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0598-range-addition-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0598-range-addition-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0728-self-dividing-numbers) |
@@ -287,6 +288,7 @@ Collection of my LeetCode solutions in Java
 | [0520-detect-capital](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
+| [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0709-to-lower-case) |
@@ -444,6 +446,7 @@ Collection of my LeetCode solutions in Java
 | [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0495-teemo-attacking) |
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
+| [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
@@ -826,4 +829,12 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0399-evaluate-division) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 <!---LeetCode Topics End-->
