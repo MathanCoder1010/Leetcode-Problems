@@ -128,6 +128,7 @@ Collection of my LeetCode solutions in Java
 | [1207-unique-number-of-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
@@ -197,6 +198,7 @@ Collection of my LeetCode solutions in Java
 | [1128-number-of-equivalent-domino-pairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -452,6 +454,7 @@ Collection of my LeetCode solutions in Java
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
@@ -693,6 +696,7 @@ Collection of my LeetCode solutions in Java
 | [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 ## Greedy
 |  |
 | ------- |
