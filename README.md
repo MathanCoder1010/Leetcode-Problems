@@ -101,6 +101,7 @@ Collection of my LeetCode solutions in Java
 | [0812-largest-triangle-area](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0812-largest-triangle-area) |
 | [0821-shortest-distance-to-a-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0883-projection-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
@@ -713,6 +714,7 @@ Collection of my LeetCode solutions in Java
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
+| [0860-lemonade-change](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
