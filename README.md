@@ -139,6 +139,7 @@ Collection of my LeetCode solutions in Java
 | [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
+| [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
