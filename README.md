@@ -124,6 +124,7 @@ Collection of my LeetCode solutions in Java
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1122-relative-sort-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1184-distance-between-bus-stops](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1184-distance-between-bus-stops) |
@@ -200,6 +201,7 @@ Collection of my LeetCode solutions in Java
 | [0997-find-the-town-judge](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0997-find-the-town-judge) |
 | [1002-find-common-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
+| [1122-relative-sort-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
@@ -523,6 +525,7 @@ Collection of my LeetCode solutions in Java
 | [0976-largest-perimeter-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1122-relative-sort-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -731,6 +734,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -829,6 +833,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 ## Planar Graph
 |  |
 | ------- |
@@ -853,4 +858,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
