@@ -72,6 +72,7 @@ Collection of my LeetCode solutions in Java
 | [0496-next-greater-element-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0506-relative-ranks) |
+| [0529-minesweeper](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0560-subarray-sum-equals-k](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -575,6 +576,7 @@ Collection of my LeetCode solutions in Java
 | [0257-binary-tree-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -618,6 +620,7 @@ Collection of my LeetCode solutions in Java
 | [0207-course-schedule](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0733-flood-fill) |
@@ -697,6 +700,7 @@ Collection of my LeetCode solutions in Java
 | [0200-number-of-islands](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
+| [0529-minesweeper](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
 | [0661-image-smoother](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0661-image-smoother) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
