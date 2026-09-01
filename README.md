@@ -71,6 +71,7 @@ Collection of my LeetCode solutions in Java
 | [0495-teemo-attacking](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0566-reshape-the-matrix) |
@@ -513,6 +514,7 @@ Collection of my LeetCode solutions in Java
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -751,6 +753,7 @@ Collection of my LeetCode solutions in Java
 | [0347-top-k-frequent-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0506-relative-ranks](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
