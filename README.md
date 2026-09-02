@@ -140,6 +140,7 @@ Collection of my LeetCode solutions in Java
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1313-decompress-run-length-encoded-list](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
@@ -445,6 +446,7 @@ Collection of my LeetCode solutions in Java
 | [0645-set-mismatch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1734-decode-xored-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1734-decode-xored-permutation) |
 ## Simulation
 |  |
@@ -531,6 +533,7 @@ Collection of my LeetCode solutions in Java
 | [1122-relative-sort-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -657,6 +660,7 @@ Collection of my LeetCode solutions in Java
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1128-number-of-equivalent-domino-pairs](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1128-number-of-equivalent-domino-pairs) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sliding Window
