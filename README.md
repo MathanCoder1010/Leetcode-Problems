@@ -135,6 +135,7 @@ Collection of my LeetCode solutions in Java
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
