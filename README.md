@@ -159,6 +159,7 @@ Collection of my LeetCode solutions in Java
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
