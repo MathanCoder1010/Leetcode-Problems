@@ -163,6 +163,7 @@ Collection of my LeetCode solutions in Java
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2293-min-max-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2293-min-max-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -486,6 +487,7 @@ Collection of my LeetCode solutions in Java
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2293-min-max-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2293-min-max-game) |
 ## Dynamic Programming
 |  |
 | ------- |
