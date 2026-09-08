@@ -165,6 +165,7 @@ Collection of my LeetCode solutions in Java
 | [2255-count-prefixes-of-a-given-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2293-min-max-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2460-apply-operations-to-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -418,6 +419,7 @@ Collection of my LeetCode solutions in Java
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
+| [2460-apply-operations-to-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [3794-reverse-string-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
@@ -491,6 +493,7 @@ Collection of my LeetCode solutions in Java
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2293-min-max-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2293-min-max-game) |
+| [2460-apply-operations-to-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
