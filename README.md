@@ -164,6 +164,7 @@ Collection of my LeetCode solutions in Java
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2293-min-max-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2293-min-max-game) |
+| [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 ## Hash Table
 |  |
 | ------- |
@@ -222,6 +223,7 @@ Collection of my LeetCode solutions in Java
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
+| [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -415,6 +417,7 @@ Collection of my LeetCode solutions in Java
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2200-find-all-k-distant-indices-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2200-find-all-k-distant-indices-in-an-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3794-reverse-string-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## String Matching
 |  |
@@ -892,4 +895,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [1122-relative-sort-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1122-relative-sort-array) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
