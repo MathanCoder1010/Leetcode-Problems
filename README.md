@@ -168,6 +168,7 @@ Collection of my LeetCode solutions in Java
 | [2460-apply-operations-to-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2706-buy-two-chocolates](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Hash Table
 |  |
 | ------- |
@@ -702,6 +703,7 @@ Collection of my LeetCode solutions in Java
 | [0594-longest-harmonious-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
+| [2760-longest-even-odd-subarray-with-threshold](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 ## Design
 |  |
 | ------- |
