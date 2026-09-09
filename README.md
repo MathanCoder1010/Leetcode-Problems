@@ -166,6 +166,7 @@ Collection of my LeetCode solutions in Java
 | [2293-min-max-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [2460-apply-operations-to-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
+| [2706-buy-two-chocolates](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -560,6 +561,7 @@ Collection of my LeetCode solutions in Java
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1710-maximum-units-on-a-truck](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [2706-buy-two-chocolates](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Tree
 |  |
@@ -764,6 +766,7 @@ Collection of my LeetCode solutions in Java
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1710-maximum-units-on-a-truck](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [2706-buy-two-chocolates](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting Sort
 |  |
