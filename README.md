@@ -272,6 +272,7 @@ Collection of my LeetCode solutions in Java
 | [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
 | [2235-add-two-integers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 ## String
 |  |
@@ -721,6 +722,7 @@ Collection of my LeetCode solutions in Java
 | [0258-add-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0258-add-digits) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
+| [2413-smallest-even-multiple](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 ## Matrix
 |  |
 | ------- |
