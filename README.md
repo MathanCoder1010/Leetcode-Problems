@@ -153,6 +153,7 @@ Collection of my LeetCode solutions in Java
 | [1710-maximum-units-on-a-truck](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [1734-decode-xored-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1734-decode-xored-permutation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -274,6 +275,7 @@ Collection of my LeetCode solutions in Java
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1323-maximum-69-number) |
 | [1492-the-kth-factor-of-n](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1492-the-kth-factor-of-n) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2235-add-two-integers](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
