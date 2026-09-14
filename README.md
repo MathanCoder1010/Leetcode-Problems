@@ -328,6 +328,7 @@ Collection of my LeetCode solutions in Java
 | [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0748-shortest-completing-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
@@ -420,6 +421,7 @@ Collection of my LeetCode solutions in Java
 | [0557-reverse-words-in-a-string-iii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
+| [0696-count-binary-substrings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0696-count-binary-substrings) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0832-flipping-an-image) |
