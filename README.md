@@ -270,6 +270,7 @@ Collection of my LeetCode solutions in Java
 | [0908-smallest-range-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0976-largest-perimeter-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
+| [1154-day-of-the-year](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1154-day-of-the-year) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -344,6 +345,7 @@ Collection of my LeetCode solutions in Java
 | [0929-unique-email-addresses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1002-find-common-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1002-find-common-characters) |
+| [1154-day-of-the-year](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
