@@ -189,6 +189,7 @@ Collection of my LeetCode solutions in Java
 | [0169-majority-element](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0268-missing-number) |
@@ -307,6 +308,7 @@ Collection of my LeetCode solutions in Java
 | [0168-excel-sheet-column-title](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0257-binary-tree-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0318-maximum-product-of-word-lengths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0318-maximum-product-of-word-lengths) |
 | [0344-reverse-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0344-reverse-string) |
@@ -367,6 +369,7 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0208-implement-trie-prefix-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 ## Stack
 |  |
 | ------- |
@@ -725,6 +728,7 @@ Collection of my LeetCode solutions in Java
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Queue
