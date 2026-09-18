@@ -91,6 +91,7 @@ Collection of my LeetCode solutions in Java
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -212,6 +213,7 @@ Collection of my LeetCode solutions in Java
 | [0594-longest-harmonious-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0645-set-mismatch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0748-shortest-completing-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0748-shortest-completing-word) |
 | [0763-partition-labels](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0771-jewels-and-stones](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
@@ -397,6 +399,7 @@ Collection of my LeetCode solutions in Java
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0705-design-hashset](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0705-design-hashset) |
 ## Recursion
 |  |
 | ------- |
@@ -733,6 +736,7 @@ Collection of my LeetCode solutions in Java
 | [0208-implement-trie-prefix-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0705-design-hashset) |
 ## Queue
 |  |
 | ------- |
@@ -936,4 +940,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
