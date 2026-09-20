@@ -145,6 +145,7 @@ Collection of my LeetCode solutions in Java
 | [1313-decompress-run-length-encoded-list](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
@@ -517,6 +518,7 @@ Collection of my LeetCode solutions in Java
 | [0999-available-captures-for-rook](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0999-available-captures-for-rook) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1389-create-target-array-in-the-given-order) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
