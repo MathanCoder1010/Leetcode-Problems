@@ -112,6 +112,7 @@ Collection of my LeetCode solutions in Java
 | [0883-projection-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0892-surface-area-of-3d-shapes) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0908-smallest-range-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
@@ -223,6 +224,7 @@ Collection of my LeetCode solutions in Java
 | [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0929-unique-email-addresses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
@@ -353,6 +355,7 @@ Collection of my LeetCode solutions in Java
 | [0821-shortest-distance-to-a-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
 | [0831-masking-personal-information](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0917-reverse-only-letters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
 | [0929-unique-email-addresses](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0929-unique-email-addresses) |
 | [0953-verifying-an-alien-dictionary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0953-verifying-an-alien-dictionary) |
@@ -583,6 +586,7 @@ Collection of my LeetCode solutions in Java
 | [0747-largest-number-at-least-twice-of-others](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0791-custom-sort-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0888-fair-candy-swap) |
+| [0893-groups-of-special-equivalent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
 | [0905-sort-array-by-parity](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0976-largest-perimeter-triangle) |
