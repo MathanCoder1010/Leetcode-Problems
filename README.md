@@ -63,6 +63,7 @@ Collection of my LeetCode solutions in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0399-evaluate-division) |
+| [0406-queue-reconstruction-by-height](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0419-battleships-in-a-board](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0419-battleships-in-a-board) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -576,6 +577,7 @@ Collection of my LeetCode solutions in Java
 | [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0406-queue-reconstruction-by-height](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [0414-third-maximum-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -960,9 +962,14 @@ Collection of my LeetCode solutions in Java
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1409-queries-on-a-permutation-with-key) |
 ## Sqrt Decomposition
 |  |
 | ------- |
 | [1409-queries-on-a-permutation-with-key](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1409-queries-on-a-permutation-with-key) |
+## Segment Tree
+|  |
+| ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
 <!---LeetCode Topics End-->
