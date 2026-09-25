@@ -246,6 +246,7 @@ Collection of my LeetCode solutions in Java
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2367-number-of-arithmetic-triplets](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2367-number-of-arithmetic-triplets) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
 |  |
 | ------- |
@@ -377,6 +378,7 @@ Collection of my LeetCode solutions in Java
 | [2255-count-prefixes-of-a-given-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
 ## Trie
 |  |
@@ -745,6 +747,7 @@ Collection of my LeetCode solutions in Java
 | [0643-maximum-average-subarray-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Design
 |  |
 | ------- |
