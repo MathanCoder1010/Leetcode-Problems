@@ -330,6 +330,7 @@ Collection of my LeetCode solutions in Java
 | [0383-ransom-note](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0394-decode-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0409-longest-palindrome) |
@@ -397,6 +398,7 @@ Collection of my LeetCode solutions in Java
 | [0144-binary-tree-preorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
+| [0394-decode-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0739-daily-temperatures) |
@@ -421,6 +423,7 @@ Collection of my LeetCode solutions in Java
 | [0231-power-of-two](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
