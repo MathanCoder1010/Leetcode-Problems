@@ -337,6 +337,7 @@ Collection of my LeetCode solutions in Java
 | [0412-fizz-buzz](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0482-license-key-formatting) |
@@ -632,6 +633,7 @@ Collection of my LeetCode solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -656,6 +658,7 @@ Collection of my LeetCode solutions in Java
 | [0257-binary-tree-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0399-evaluate-division](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0399-evaluate-division) |
 | [0419-battleships-in-a-board](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0419-battleships-in-a-board) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
@@ -685,6 +688,7 @@ Collection of my LeetCode solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -700,6 +704,7 @@ Collection of my LeetCode solutions in Java
 | [0200-number-of-islands](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0207-course-schedule) |
 | [0399-evaluate-division](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0399-evaluate-division) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
@@ -726,6 +731,7 @@ Collection of my LeetCode solutions in Java
 | [0098-validate-binary-search-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 ## Counting
 |  |
 | ------- |
@@ -761,6 +767,7 @@ Collection of my LeetCode solutions in Java
 | [0208-implement-trie-prefix-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0705-design-hashset) |
 ## Queue
 |  |
