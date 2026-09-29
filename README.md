@@ -346,6 +346,7 @@ Collection of my LeetCode solutions in Java
 | [0504-base-7](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0520-detect-capital) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
