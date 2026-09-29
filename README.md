@@ -337,6 +337,7 @@ Collection of my LeetCode solutions in Java
 | [0412-fizz-buzz](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0443-string-compression](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
@@ -448,6 +449,7 @@ Collection of my LeetCode solutions in Java
 | [0345-reverse-vowels-of-a-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
