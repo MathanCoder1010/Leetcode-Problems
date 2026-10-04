@@ -353,6 +353,7 @@ Collection of my LeetCode solutions in Java
 | [0567-permutation-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0592-fraction-addition-and-subtraction) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0606-construct-string-from-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0680-valid-palindrome-ii) |
@@ -646,6 +647,7 @@ Collection of my LeetCode solutions in Java
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
@@ -674,6 +676,7 @@ Collection of my LeetCode solutions in Java
 | [0463-island-perimeter](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0463-island-perimeter) |
 | [0529-minesweeper](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0547-number-of-provinces) |
+| [0606-construct-string-from-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0695-max-area-of-island](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0733-flood-fill) |
 | [0797-all-paths-from-source-to-target](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0797-all-paths-from-source-to-target) |
@@ -701,6 +704,7 @@ Collection of my LeetCode solutions in Java
 | [0230-kth-smallest-element-in-a-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0257-binary-tree-paths) |
 | [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
+| [0606-construct-string-from-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0606-construct-string-from-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
