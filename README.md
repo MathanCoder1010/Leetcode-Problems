@@ -383,6 +383,7 @@ Collection of my LeetCode solutions in Java
 | [1957-delete-characters-to-make-fancy-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
