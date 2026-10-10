@@ -142,6 +142,7 @@ Collection of my LeetCode solutions in Java
 | [1200-minimum-absolute-difference](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -381,6 +382,7 @@ Collection of my LeetCode solutions in Java
 | [1002-find-common-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1002-find-common-characters) |
 | [1154-day-of-the-year](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1154-day-of-the-year) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
 | [1678-goal-parser-interpretation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1678-goal-parser-interpretation) |
@@ -402,6 +404,7 @@ Collection of my LeetCode solutions in Java
 | ------- |
 | [0014-longest-common-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 ## Stack
 |  |
 | ------- |
@@ -691,6 +694,7 @@ Collection of my LeetCode solutions in Java
 | [0872-leaf-similar-trees](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0872-leaf-similar-trees) |
 | [0959-regions-cut-by-slashes](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0959-regions-cut-by-slashes) |
 | [0993-cousins-in-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0993-cousins-in-binary-tree) |
+| [1233-remove-sub-folders-from-the-filesystem](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
