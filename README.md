@@ -164,6 +164,7 @@ Collection of my LeetCode solutions in Java
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1710-maximum-units-on-a-truck](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1710-maximum-units-on-a-truck) |
@@ -849,6 +850,7 @@ Collection of my LeetCode solutions in Java
 | [1072-flip-columns-for-maximum-number-of-equal-rows](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1072-flip-columns-for-maximum-number-of-equal-rows) |
 | [1260-shift-2d-grid](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1260-shift-2d-grid) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1672-richest-customer-wealth](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 ## Greedy
 |  |
 | ------- |
