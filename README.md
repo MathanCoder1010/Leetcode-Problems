@@ -165,6 +165,7 @@ Collection of my LeetCode solutions in Java
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1630-arithmetic-subarrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1630-arithmetic-subarrays) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1640-check-array-formation-through-concatenation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1640-check-array-formation-through-concatenation) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -255,6 +256,7 @@ Collection of my LeetCode solutions in Java
 | [1394-find-lucky-integer-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
 | [1630-arithmetic-subarrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1630-arithmetic-subarrays) |
+| [1640-check-array-formation-through-concatenation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1640-check-array-formation-through-concatenation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
