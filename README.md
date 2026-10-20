@@ -167,6 +167,7 @@ Collection of my LeetCode solutions in Java
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1640-check-array-formation-through-concatenation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1640-check-array-formation-through-concatenation) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
+| [1656-design-an-ordered-stream](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 | [1672-richest-customer-wealth](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -257,6 +258,7 @@ Collection of my LeetCode solutions in Java
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
 | [1630-arithmetic-subarrays](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1630-arithmetic-subarrays) |
 | [1640-check-array-formation-through-concatenation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1640-check-array-formation-through-concatenation) |
+| [1656-design-an-ordered-stream](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
@@ -811,6 +813,7 @@ Collection of my LeetCode solutions in Java
 | [0449-serialize-and-deserialize-bst](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0449-serialize-and-deserialize-bst) |
 | [0705-design-hashset](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0706-design-hashmap) |
+| [1656-design-an-ordered-stream](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 ## Queue
 |  |
 | ------- |
@@ -1037,4 +1040,8 @@ Collection of my LeetCode solutions in Java
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0406-queue-reconstruction-by-height) |
+## Data Stream
+|  |
+| ------- |
+| [1656-design-an-ordered-stream](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
 <!---LeetCode Topics End-->
