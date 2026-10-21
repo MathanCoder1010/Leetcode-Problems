@@ -168,6 +168,7 @@ Collection of my LeetCode solutions in Java
 | [1640-check-array-formation-through-concatenation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1640-check-array-formation-through-concatenation) |
 | [1652-defuse-the-bomb](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1652-defuse-the-bomb) |
 | [1656-design-an-ordered-stream](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1656-design-an-ordered-stream) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -395,6 +396,7 @@ Collection of my LeetCode solutions in Java
 | [1233-remove-sub-folders-from-the-filesystem](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1233-remove-sub-folders-from-the-filesystem) |
 | [1408-string-matching-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1436-destination-city](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1436-destination-city) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
