@@ -194,6 +194,7 @@ Collection of my LeetCode solutions in Java
 | [2706-buy-two-chocolates](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3151-special-array-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
 | ------- |
