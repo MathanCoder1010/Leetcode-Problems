@@ -194,6 +194,7 @@ Collection of my LeetCode solutions in Java
 | [2706-buy-two-chocolates](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2733-neither-minimum-nor-maximum) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2942-find-words-containing-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3151-special-array-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3151-special-array-i) |
 ## Hash Table
 |  |
@@ -410,6 +411,7 @@ Collection of my LeetCode solutions in Java
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [2942-find-words-containing-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3794-reverse-string-prefix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3794-reverse-string-prefix) |
