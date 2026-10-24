@@ -196,6 +196,7 @@ Collection of my LeetCode solutions in Java
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2942-find-words-containing-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2942-find-words-containing-character) |
 | [3151-special-array-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3151-special-array-i) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -318,6 +319,7 @@ Collection of my LeetCode solutions in Java
 | [2413-smallest-even-multiple](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## String
 |  |
 | ------- |
@@ -581,6 +583,7 @@ Collection of my LeetCode solutions in Java
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2293-min-max-game](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2293-min-max-game) |
 | [2460-apply-operations-to-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2460-apply-operations-to-an-array) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -912,6 +915,7 @@ Collection of my LeetCode solutions in Java
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0506-relative-ranks) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Bucket Sort
 |  |
 | ------- |
