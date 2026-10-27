@@ -176,6 +176,7 @@ Collection of my LeetCode solutions in Java
 | [1734-decode-xored-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1734-decode-xored-permutation) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1854-maximum-population-year](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [1920-build-array-from-permutation](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -797,6 +798,7 @@ Collection of my LeetCode solutions in Java
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1854-maximum-population-year](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/2085-count-common-words-with-one-occurrence) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -907,6 +909,7 @@ Collection of my LeetCode solutions in Java
 | [0724-find-pivot-index](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1854-maximum-population-year](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/1854-maximum-population-year) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
