@@ -390,6 +390,7 @@ Collection of my LeetCode solutions in Java
 | [0804-unique-morse-code-words](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0821-shortest-distance-to-a-character) |
+| [0830-positions-of-large-groups](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0830-positions-of-large-groups) |
 | [0831-masking-personal-information](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0831-masking-personal-information) |
 | [0844-backspace-string-compare](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0893-groups-of-special-equivalent-strings](https://github.com/MathanCoder1010/Leetcode-Problems/tree/master/0893-groups-of-special-equivalent-strings) |
